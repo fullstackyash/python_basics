@@ -27,9 +27,6 @@
 /* Define to 1 if you have the <inttypes.h> header file. */
 #define HAVE_INTTYPES_H
 
-/* Define to 1 if you have the `bsd' library (-lbsd). */
-/* #undef HAVE_LIBBSD */
-
 /* Define to 1 if you have the <memory.h> header file. */
 #define HAVE_MEMORY_H
 
@@ -70,7 +67,7 @@
 #define PACKAGE_NAME "expat"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "expat 2.7.3"
+#define PACKAGE_STRING "expat 2.7.4"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "expat"
@@ -79,7 +76,7 @@
 #  define PACKAGE_URL ""
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "2.7.3"
+#define PACKAGE_VERSION "2.7.4"
 
 /* Define to 1 if you have the ANSI C header files. */
 #  ifndef STDC_HEADERS
